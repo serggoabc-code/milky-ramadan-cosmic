@@ -13,7 +13,7 @@ except Exception as e:
 
 # --- 3. ИНТЕРФЕЙС (БОКОВАЯ ПАНЕЛЬ) ---
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/2405/2405451.png", width=100)
+    st.image("https://img.icons8.com/clouds/200/rocket.png", width=100)
     st.title("Настройки Милки")
     
     task_type = st.selectbox(
